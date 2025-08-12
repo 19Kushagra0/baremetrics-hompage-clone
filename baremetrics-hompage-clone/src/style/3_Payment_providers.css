@@ -1,0 +1,98 @@
+.payment-providers {
+  width: 100%;
+  /* background-color: red; */
+
+  margin-top: 100px;
+
+  display: flex;
+  flex-direction: column;
+}
+.payment-providers-headline {
+  width: 100%;
+
+  display: flex;
+  flex-direction: row;
+
+  text-align: center;
+  justify-content: center;
+
+  color: #b8b8d9;
+
+  font-size: 14px;
+}
+
+.payment-providers-images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* centers the whole row */
+  align-items: center;
+  gap: 20px 60px; /* vertical gap, horizontal gap */
+  max-width: 1000px; /* control total row width to avoid too wide spreading */
+  margin: 0 auto; /* center the container */
+  padding: 50px 0;
+}
+.payment-providers-image {
+  /* aspect-ratio: 1/1; */
+  /* background-color: red; */
+
+  cursor: pointer;
+}
+.payment-providers-images1 {
+  width: 84px;
+  height: 40px;
+}
+.payment-providers-images2 {
+  width: 119px;
+  height: 28px;
+}
+.payment-providers-images3 {
+  width: 91px;
+  height: 27px;
+}
+.payment-providers-images4 {
+  width: 100px;
+  height: 31px;
+}
+.payment-providers-images5 {
+  width: 129px;
+  height: 26px;
+}
+.payment-providers-images6 {
+  width: 154px;
+  height: 23px;
+}
+.payment-providers-images7 {
+  width: 147px;
+  height: 24px;
+}
+.payment-providers-images8 {
+  width: 117px;
+  height: 49px;
+}
+.payment-providers-images9 {
+  width: 175px;
+  height: 77px;
+}
+.payment-providers-images10 {
+  width: 130px;
+  height: 130px;
+}
+.payment-providers-images11 {
+  width: 117px;
+  height: 39px;
+}
+@media screen and (max-width: 1290px) {
+  .payment-providers-images {
+    padding: 50px 10vw;
+  }
+}
+@media screen and (max-width: 1180px) {
+  .payment-providers-images {
+    padding: 50px 5vw;
+  }
+}
+@media screen and (max-width: 630px) {
+  .payment-providers-images {
+    padding: 50px 3vw;
+  }
+}

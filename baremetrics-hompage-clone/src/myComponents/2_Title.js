@@ -1,5 +1,5 @@
 import React from "react";
-import "../style/Title.css";
+import "../style/2_Title.css";
 import baremetricsVideo from "../video/baremetrics-video.mp4";
 
 export default function Title() {

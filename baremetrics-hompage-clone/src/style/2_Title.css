@@ -169,6 +169,7 @@
 @media screen and (max-width: 459px) {
   .title-button-container {
     flex-direction: column;
+    gap: 10px;
   }
   .title-button1,
   .title-button2 {

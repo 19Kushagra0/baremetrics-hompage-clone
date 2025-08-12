@@ -1,5 +1,5 @@
 import React from "react";
-import "../style/Header.css";
+import "../style/1_Header.css";
 import baremetricsLogo from "../images/baremetrics-logo.svg"; // import the image
 import burgerListLogo from "../images/burger-list.svg";
 

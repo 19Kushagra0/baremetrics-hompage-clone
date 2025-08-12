@@ -10,8 +10,7 @@
   color: #767ead;
   font-size: 16px;
 
-  height: 110px;
-  /* padding: 40px 0px; */
+  padding: 40px 0px;
   padding-left: 10vw;
   padding-right: 10vw;
 
@@ -22,6 +21,8 @@
   position: fixed;
 
   top: 0px;
+
+  z-index: 1;
 }
 .header-left-container {
   height: 100%;
@@ -126,7 +127,7 @@
   border: 0px;
 }
 .header-button2:hover {
-  margin-bottom: 2%;
+  transform: translateY(-5px);
 }
 .icon-hamburger-container {
   height: 100%;
