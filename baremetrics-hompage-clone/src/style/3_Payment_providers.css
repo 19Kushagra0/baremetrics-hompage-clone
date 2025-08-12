@@ -1,8 +1,8 @@
 .payment-providers {
   width: 100%;
-  /* background-color: red; */
+  background-color: #f9f9f9;
 
-  margin-top: 100px;
+  padding-top: 100px;
 
   display: flex;
   flex-direction: column;
