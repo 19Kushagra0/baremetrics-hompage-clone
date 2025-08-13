@@ -1,4 +1,5 @@
-.feature-box2 {
+.feature-box2,
+.growth {
   width: 100%;
   background-color: white;
 
@@ -41,7 +42,8 @@
   color: #7171a6;
 }
 @media screen and (max-width: 765px) {
-  .feature-box2 {
+  .feature-box2,
+  .growth {
     padding-left: 20px;
     padding-right: 20px;
   }
