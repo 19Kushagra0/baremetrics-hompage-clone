@@ -2,7 +2,8 @@
   width: 100%;
 
   background-color: white;
-  height: 100vh;
+
+  font-family: "inter";
 }
 .control-center-text-color4 {
   color: #12c457;

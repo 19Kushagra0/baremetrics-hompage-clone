@@ -125,9 +125,12 @@
   border-radius: 10px;
 
   border: 0px;
+
+  font-family: "inter";
 }
 .header-button2:hover {
-  transform: translateY(-5px);
+  transform: translateY(-3px);
+  /* border-bottom: 5px solid transparent; */
 }
 .icon-hamburger-container {
   height: 100%;

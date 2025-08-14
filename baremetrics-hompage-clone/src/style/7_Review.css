@@ -17,6 +17,8 @@
   flex-direction: column;
 
   align-items: center;
+
+  font-family: "inter";
 }
 .review-heading-container {
   width: 700px;

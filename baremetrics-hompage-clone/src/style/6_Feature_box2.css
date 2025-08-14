@@ -8,6 +8,8 @@
 
   padding-top: 25px;
   padding-bottom: 25px;
+
+  font-family: "inter";
 }
 .feature-box-text-container {
   display: flex;
