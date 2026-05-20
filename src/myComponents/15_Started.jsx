@@ -1,6 +1,5 @@
 import React from "react";
 import "../style/15_Started.css";
-import user from "../images/10/user-ben-zoomshift.jpg";
 import homepage from "../images/10/homepage-features_cancellation-insights.png";
 
 export default function Started() {
